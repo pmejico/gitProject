@@ -3,6 +3,10 @@ body{
 }
 
 h1{
-    color: white;
+    color: green;
     font-style: oblique;
 }
+p{
+  color: blue;
+}
+
